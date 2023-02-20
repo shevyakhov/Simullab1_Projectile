@@ -1,0 +1,16 @@
+<resources>
+	<string name="app_name">Simullab_Projectile</string>
+	<string name="height">height</string>
+	<string name="angle">angle</string>
+	<string name="speed">speed</string>
+	<string name="size">size</string>
+	<string name="weight">weight</string>
+	<string name="addGraph">Добавить график</string>
+	<string name="watchStats">Статистика</string>
+	<string name="step">Step</string>
+	<string name="testnum">№</string>
+	<string name="distance">Distance</string>
+	<string name="max_height">max(h)</string>
+	<string name="time_step">Step</string>
+	<string name="end_speed">End Speed</string>
+</resources>
